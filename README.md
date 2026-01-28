@@ -36,3 +36,13 @@ Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 
 ![Feature Importance](figures/Feature_Importance.png)
 
+## 💾 SQL Analysis
+Python's `sqlite3` library was used to simulate a database environment and run SQL queries for data exploration.
+
+**Key SQL Concepts Applied:**
+* **Data Aggregation:** Used `GROUP BY` and `SUM` to identify revenue sources (Fiber Optic vs. DSL).
+* **Filtering:** Used `WHERE` and `HAVING` clauses to isolate high-churn customer segments.
+* **Business Logic:** Analyzed payment methods and contract types using SQL queries to validate model findings.
+
+**File:** `churn_sql.py`
+

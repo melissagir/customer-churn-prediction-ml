@@ -34,5 +34,5 @@ service usage, and billing information.
 ## Tools & Libraries
 Python, pandas, numpy, scikit-learn, matplotlib, seaborn
 
-![Feature Importance](figures/feature_importance.png)
+![Feature Importance](figures/Feature_Importance.png)
 

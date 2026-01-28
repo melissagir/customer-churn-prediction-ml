@@ -1,6 +1,3 @@
-# customer-churn-prediction-ml
-Machine learning project for predicting customer churn using the IBM Telco dataset with Random Forest, feature importance analysis, and threshold optimization.
-
 # Customer Churn Prediction (Machine Learning)
 
 This project aims to predict customer churn using the IBM Telco Customer Churn dataset.
